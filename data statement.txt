@@ -1,3 +1,0 @@
-This study precisely documents the work, with all data accurate and methodologies detailed enough for replication. Due to privacy constraints, hospital-participated datasets are not publicly accessible. 
-
-Data50.xlsx contains the first 50 sample examples from the original dataset. The patients' identifying information has been anonymized. The entire original dataset in this study are only available from the corresponding author upon request. (wanghuaiyuelva@126.com)
